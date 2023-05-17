@@ -2,11 +2,4 @@
     <string name="app_name">NavigationDrawer</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
-    <string name="a">a</string>
-    <string name="b">b</string>
-    <string name="c">c</string>
-    <string name="d">dgit</string>
-    <string name="e">ddgit</string>
-    <string name="de">ddgitd</string>
-    <string name="ded">dddgitd</string>
 </resources>
